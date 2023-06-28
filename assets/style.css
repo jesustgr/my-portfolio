@@ -41,3 +41,38 @@ a {
     color: #fff;
     text-decoration: none;
 }
+/* styling below header */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* for placing headshot */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* <p> element styling */
+p {
+    font-size: 16px;
+}
+
+/*  */
+.about-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}
+
+.about-me img {
+    max-height: 200px;
+}
+
+.about-me h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
